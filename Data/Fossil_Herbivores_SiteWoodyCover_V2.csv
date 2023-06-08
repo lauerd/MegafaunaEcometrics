@@ -1,0 +1,80 @@
+Site,Formation/Sequence,Latitude,Longitude,Min_Age,Max_Age,Mean_Age,FracWoodyCover_Mean,FracWoodyCover_SD,Estimate_Sample_Size,Derived_From
+Amboseli,Ol Tukai Beds,-2.6,37.3,0.031,0.049,0.04,0.1116017,0,1,Literature description
+Apak,Nachukui Fm,2.9,36.05,4.2,5,4.6,0.4109927,0.1206218,4,Soil carbon isotopes
+Aramis,Sagantole Fm,10.3,40.3,4.4,4.4,4.4,0.1847268,0.1005839,44,Soil carbon isotopes
+Asa Koma,Adu-Asa Fm,10.3,40.26,5.54,5.77,5.655,0.3915354,0.08475633,9,Soil carbon isotopes
+Asbole,Busidima Fm,11.05,40.67,0.6,0.8,0.7,0.3730647,0.0809069,12,Soil carbon isotopes
+Bed I,Olduvai Gorge,-2.98,35.3,1.8,2.038,1.919,0.219032,0,1,Soil carbon isotopes
+Bed III,Olduvai Gorge,-2.98,35.3,0.8,1.2,1,0.1087013,0.04531161,5,Soil carbon isotopes
+Bed IV,Olduvai Gorge,-2.98,35.3,0.6,0.8,0.7,0.1433724,0.03467374,5,Soil carbon isotopes
+Boolihinan,Busidima Fm,11.15,40.32,1.5,1.7,1.6,0.3175104,0.1017341,19,Soil carbon isotopes
+Chari,Koobi Fora Fm,4,36.37,0.75,1.38,1.065,0.1939663,0.09166465,5,Soil carbon isotopes
+Chemeron Magabet,Chemeron Fm,-0.57,35.95,4.3,5.3,4.8,0.52607,0,1,Soil carbon isotopes
+Daka,Bouri Fm,10.28,40.53,0.966,1.04,1.003,0.1213206,0.02057242,4,Soil carbon isotopes
+Dark Paleosol,Busidima Fm,11.15,40.32,0.9,1.4,1.15,0.2682856,0.1096401,17,Soil carbon isotopes
+Denen Dora,Hadar Fm,11.1,40.58,3.12,3.24,3.18,0.5946648,0,1,Soil carbon isotopes
+Garba IV,Melka Kunture,9.56,39.11,0.8,1,0.9,0.1,0,1,Literature description
+Gombore I,Melka Kunture,9.56,39.11,1.6,1.7,1.65,0.3,0,1,Literature description
+Gurumaha,Lee Adoyta Basin,11.4,40.9,2.75,2.82,2.785,0.4,0,1,Literature description
+GvJm22 Pleis,Lukenya Hill,-1.47,37.08,0.026,0.046,0.036,0.1116017,0,1,Literature description
+Hata,Bouri Fm,10.28,40.53,2.5,2.5,2.5,0.2,0,1,Literature description
+Ibole,Wembere-Manonga Fm,-3.8,33.58,5,5.5,5.25,0.5,0,1,Literature description
+Kada Hadar,Hadar Fm,11.1,40.58,2.95,3.12,3.035,0.4839592,0.0460207,5,Soil carbon isotopes
+Kaitio,Nachukui Fm,2.9,36.05,1.55,1.87,1.71,0.3333468,0.057958,2,Soil carbon isotopes
+Kaiyumung,Nachukui Fm,2.9,36.05,3,3.5,3.25,0.4218172,0.08453272,21,Soil carbon isotopes
+Kalochoro,Nachukui Fm,2.9,36.05,1.87,2.33,2.1,0.3115888,0.1097045,11,Soil carbon isotopes
+Kanapoi,Kanapoi Fm,2.33,35.92,4.07,4.17,4.12,0.5037204,0.06984924,8,Soil carbon isotopes
+Kantis,Indet.,-1.39,36.72,3.4,3.5,3.45,0.39,0,1,Literature description
+Karungu,-,-0.83,34.15,0.035,0.1,0.068,0.05,0,1,Literature description
+Kataboi,Nachukui Fm,2.9,36.05,3.44,3.97,3.705,0.5275369,0.0569496,13,Soil carbon isotopes
+KBS,Koobi Fora Fm,4,36.37,1.53,1.87,1.7,0.305267,0.1238053,27,Soil carbon isotopes
+Kibish IV,Kibish Fm,5,36,0.008,0.012,0.01,0.2,0,1,Literature description
+Kiloleli,Wembere-Manonga Fm,-3.8,33.58,4,4.5,4.25,0.4,0,1,Literature description
+Konso 1,Konso Fm,5.3,37.4,1.8,1.9,1.85,0.3,0,1,Literature description
+Konso 2,Konso Fm,5.3,37.4,1.7,1.8,1.75,0.3,0,1,Literature description
+Konso 3,Konso Fm,5.3,37.4,1.5,1.6,1.55,0.2,0,1,Literature description
+Konso 4,Konso Fm,5.3,37.4,1.4,1.5,1.45,0.1,0,1,Literature description
+Konso 5,Konso Fm,5.3,37.4,1.3,1.4,1.35,0.4,0,1,Literature description
+Konso 6,Konso Fm,5.3,37.4,0.7,1.3,1,0.35,0,1,Literature description
+Lainyamok,-,-1.79,36.2,0.32,0.39,0.355,0.5,0,1,Literature description
+Lee Adoyta,Lee Adoyta Basin,11.4,40.9,2.58,2.67,2.625,0.4,0,1,Literature description
+Lokalalei,Nachukui Fm,2.9,36.05,2.33,2.53,2.43,0.4274366,0.1030903,5,Soil carbon isotopes
+Lokochot,Koobi Fora Fm,4,36.37,3.44,3.6,3.52,0.4916065,0.0843609,27,Soil carbon isotopes
+Lonyumun,Koobi Fora & Nachukui Fm,4,36.37,3.97,4,3.985,0.5406883,0.01143227,2,Soil carbon isotopes
+Lower Leotolil,Laetolil Beds,-3.2,35.2,3.85,4.36,4.105,0.4408407,0,1,Soil carbon isotopes
+Lower Lomekwi,Nachukui Fm,2.9,36.05,3.13,3.44,3.285,0.356679,0.04038637,7,Soil carbon isotopes
+Lower Nawata,Nawata Fm,2.9,36.05,6.5,7.4,6.95,0.3194072,0.1713168,13,Soil carbon isotopes
+Lower Bed II,Olduvai Gorge,-2.98,35.3,1.74,1.79,1.765,0.2682912,0.06778623,4,Soil carbon isotopes
+Lukeino,Lukeino Fm,-0.79,35.86,5.73,6.14,5.935,0.3781985,0.1525116,2,Soil carbon isotopes
+Mb A,Shungura Fm,5,36,3.44,3.6,3.52,0.6503729,0,1,Soil carbon isotopes
+Mb B,Shungura Fm,5,36,2.97,3.44,3.205,0.6414785,0.05210546,6,Soil carbon isotopes
+Mb C,Shungura Fm,5,36,2.53,3.07,2.8,0.5937548,0.08197691,3,Soil carbon isotopes
+Mb D,Shungura Fm,5,36,2.44,2.53,2.485,0.4831135,0.05917773,2,Soil carbon isotopes
+Mb E,Shungura Fm,5,36,2.32,2.4,2.36,0.5619608,0.03693586,6,Soil carbon isotopes
+Mb F,Shungura Fm,5,36,2.27,2.32,2.295,0.5390542,0.03261782,3,Soil carbon isotopes
+Mb G,Shungura Fm,5,36,1.87,2.27,2.07,0.6310489,0.04523252,14,Soil carbon isotopes
+Mb H,Shungura Fm,5,36,1.76,1.87,1.815,0.4602074,0.1149274,3,Soil carbon isotopes
+Mb J,Shungura Fm,5,36,1.53,1.76,1.645,0.3466813,0.053468,4,Soil carbon isotopes
+Mb K,Shungura Fm,5,36,1.38,1.53,1.455,0.3865027,0.08215266,3,Soil carbon isotopes
+Mb L,Shungura Fm,5,36,1,1.38,1.19,0.4074458,0.01340259,2,Soil carbon isotopes
+Mfangano,Waware Beds,-0.47,34.07,0.035,0.1,0.068,0.4534708,0.2600827,8,Soil carbon isotopes
+Middle Lomekwi,Nachukui Fm,2.9,36.05,2.82,3.13,2.975,0.3189325,0.03526551,4,Soil carbon isotopes
+Moiti,Koobi Fora Fm,4,36.37,3.6,3.97,3.785,0.616735,0.1004906,5,Soil carbon isotopes
+Mpesida,Mpesida Beds,0.67,36,6.2,7,6.6,0.4959141,0.02308294,6,Soil carbon isotopes
+Nariokotome,Nachukui Fm,2.9,36.05,0.75,1.3,1.025,0.2406229,0.1092938,3,Soil carbon isotopes
+Natoo,Nachukui Fm,2.9,36.05,1.3,1.55,1.425,0.2960616,0.1255051,8,Soil carbon isotopes
+Okote,Koobi Fora Fm,4,36.37,1.38,1.53,1.455,0.2988792,0.1308423,9,Soil carbon isotopes
+Olkesiteti,Oltulelei Fm,-1.58,36.43,0.295,0.32,0.308,0.09323775,0.03481372,2,Soil carbon isotopes
+Olorgesailie,Olorgesailie Fm,-1.58,36.43,0.5,1,0.75,0.01447614,0.02399288,62,Soil carbon isotopes
+Rusinga,Wasiriya Beds,-0.41,34.18,0.035,0.1,0.068,0.5074121,0.1227278,20,Soil carbon isotopes
+Sidi Hakoma,Hadar Fm,11.1,40.58,3.24,3.42,3.33,0.5372854,0.0604028,7,Soil carbon isotopes
+South Turkwell,Nachukui Fm,2.9,36.05,3.2,3.58,3.39,0.4548886,0.09229972,25,Soil carbon isotopes
+Tinde,Wembere-Manonga Fm,-3.8,33.58,4.5,5,4.75,0.3,0,1,Literature description
+Tulu Bor,Koobi Fora Fm,4,36.37,2.64,3.44,3.04,0.4977511,0.08447321,23,Soil carbon isotopes
+Upper Laetolil,Laetolil Beds,-3.2,35.2,3.6,3.85,3.725,0.423392,0.1379249,5,Soil carbon isotopes
+Upper Lomekwi,Nachukui Fm,2.9,36.05,2.53,2.82,2.675,0.3577414,0.1367859,7,Soil carbon isotopes
+Upper Nawata,Nawata Fm,2.9,36.05,5,6.5,5.75,0.242458,0.1165608,5,Soil carbon isotopes
+Upper Ndolanya,Ndolanya Beds,-3.2,35.2,2.66,2.66,2.66,0.06436688,0,1,Soil carbon isotopes
+Upper Bed II,Olduvai Gorge,-2.98,35.3,1.2,1.74,1.47,0.2000604,0.1371442,5,Soil carbon isotopes
+Upper Burgi,Koobi Fora Fm,4,36.37,1.87,2,1.935,0.3241945,0.1421621,20,Soil carbon isotopes
+Usno,Usno Fm,4.5,36,3,3.3,3.15,0.6414785,0,1,Literature description
